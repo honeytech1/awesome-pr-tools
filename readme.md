@@ -2,7 +2,7 @@
 
 > A curated list of tools for Digital PR, Media Relations, and Earned Media, framed by the **DPRI Method™** (Digital PR Integration Framework). This list bridges the gap between traditional PR and modern digital marketing outcomes.
 
-## The DPRI Method™
+## The DPRI Method
 The **Digital PR Integration (DPRI) Method** is a systematic framework used to map PR activities to measurable digital outcomes. It is built on four core pillars:
 1. **Foundations**: Evolution from traditional media relations to entity-based authority.
 2. **Channels & Ecosystems**: Synchronizing PR with SEO, social signals, and the link economy.

@@ -16,6 +16,7 @@ The **Digital PR Integration (DPRI) Method** is a systematic framework used to m
 - [PR Outreach and Distribution](#pr-outreach-and-distribution)
 - [Media Monitoring and Brand Mentions](#media-monitoring-and-brand-mentions)
 - [Online Reviews and Reputation Scoring](#online-reviews-and-reputation-scoring)
+- [Local SEO and Citation Building](#local-seo-and-citation-building)
 - [Crisis Management and Alert Tools](#crisis-management-and-alert-tools)
 - [Link Intelligence and PR Prospecting](#link-intelligence-and-pr-prospecting)
 - [Content Ideation and Trending Topics](#content-ideation-and-trending-topics)
@@ -27,7 +28,9 @@ The **Digital PR Integration (DPRI) Method** is a systematic framework used to m
 - [PR and Marketing Automation](#pr-and-marketing-automation)
 - [PR Impact and Attribution](#pr-impact-and-attribution)
 - [Employee Advocacy and Social Amplification](#employee-advocacy-and-social-amplification)
-- [Technical PR and News SEO](#technical-pr-and-news-seo)
+- [Technical SEO and News Audit](#technical-seo-and-news-audit)
+- [SEO Browser Extensions](#seo-browser-extensions)
+- [WordPress and CMS SEO Plugins](#wordpress-and-cms-seo-plugins)
 - [Essential Free Tools](#essential-free-tools)
 - [Documentation and Learning](#documentation-and-learning)
 - [Contributing](#contributing)
@@ -81,6 +84,17 @@ Managing how customers perceive and rate your brand across high-authority platfo
 
 ---
 
+## Local SEO and Citation Building
+
+Tools to manage physical location visibility and local search presence.
+
+- **[Paid]** [BrightLocal](https://www.brightlocal.com) - The industry leader for local rank tracking, citation audits, and Google Business Profile monitoring.
+- **[Freemium]** [Whitespark](https://whitespark.ca) - Specialized in citation discovery and local search software to boost local rankings.
+- **[Paid]** [GeoRanker](https://www.georanker.com) - Local rank tracking and heatmaps to see visibility at a hyper-local level.
+- **[Paid]** [Semrush Local](https://www.semrush.com/local/) - Automated listing management and map rank tracking.
+
+---
+
 ## Crisis Management and Alert Tools
 
 Early warning systems to protect brand equity during reputational threats.
@@ -115,6 +129,9 @@ Finding the story angles and data-backed topics that journalists want to cover.
 - **[Freemium]** [KeywordTool.io](https://keywordtool.io) - Uncovers long-tail search data from YouTube and Bing to find unique content angles.
 - **[Paid]** [Keyword Insights](https://www.keywordinsights.ai) - Advanced clustering and search intent analysis to bridge the gap between niche PR and large-scale keyword strategy.
 - **[Paid]** [LowFruits](https://lowfruits.io) - Finds "weak spots" in SERPs where small brands/niche PR stories can easily rank.
+- **[Paid]** [KWFinder](https://mangools.com/kwfinder/) - Popular tool for finding profitable long-tail keywords with low difficulty scoring.
+- **[Freemium]** [Ubersuggest](https://neilpatel.com/ubersuggest/) - Accessible keyword research and site audit tool by Neil Patel.
+- **[Paid]** [Sistrix](https://www.sistrix.com) - Visibility index specialist for tracking domain market share and identifying competitors.
 
 ---
 
@@ -174,6 +191,7 @@ Comprehensive platforms that handle everything from link analysis to brand track
 - **[Paid]** [SE Ranking](https://seranking.com) - Growing suite with affordable brand monitoring and AI visibility tracking.
 - **[Paid]** [Serpstat](https://serpstat.com) - Competitive intelligence platform that helps PRs see where their rivals are getting coverage.
 - **[Paid]** [Search Atlas](https://searchatlas.com) - AI-heavy platform with automation for link building and content creation.
+- **[Paid]** [Moz Pro](https://moz.com/products/pro) - Classic SEO suite known for its user-friendly interface and industry-standard Domain Authority metrics.
 
 ---
 
@@ -209,17 +227,45 @@ Leveraging your internal team to boost the reach of your PR stories.
 
 ---
 
-## Technical PR and News SEO
+## Technical SEO and News Audit
 
-The technical backend required for news visibility and rapid indexing.
+The technical infrastructure required for news visibility, rapid indexing, and site health.
 
 - **[Freemium]** [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Audit news sites for broken links and metadata issues.
 - **[Free]** [Lighthouse](https://developer.chrome.com/docs/lighthouse/) - Official Google tool for auditing performance, accessibility, and SEO quality.
 - **[Freemium]** [Siteliner](https://www.siteliner.com) - Finds duplicate content issues that might prevent news articles from ranking.
 - **[Paid]** [Sitebulb](https://sitebulb.com) - Specialized website auditor that provides prioritised recommendations for technical health.
 - **[Paid]** [Lumar](https://www.lumar.io) - Enterprise-grade technical SEO platform (formerly Deepcrawl) for monitoring large news and media sites.
+- **[Paid]** [Botify](https://www.botify.com) - Enterprise-grade technical SEO platform for large-scale site auditing and log file analysis.
+- **[Paid]** [JetOctopus](https://jetoctopus.com) - SaaS crawler and log analyzer known for its extreme speed and data visualization.
+- **[Paid]** [Oncrawl](https://www.oncrawl.com) - Data-driven technical SEO crawler that integrates crawl data with Search Console and log files.
+- **[Freemium]** [Screaming Frog Log File Analyser](https://www.screamingfrog.co.uk/log-file-analyser/) - Essential for understanding exactly how search engine bots crawl your site.
 - **[Paid]** [ContentKing](https://www.contentkingapp.com) - Real-time SEO auditing and 24/7 monitoring to catch technical PR disasters immediately.
 - **[Paid]** [Sitechecker](https://sitechecker.pro) - Quick and easy site audits with built-in keyword and backlink monitoring.
+
+---
+
+## SEO Browser Extensions
+
+Productivity tools for on-the-fly analysis directly in the browser.
+
+- **[Free]** [SEO Meta in 1 Click](https://www.seometa1click.com) - Instant metadata analysis (H-tags, alt-text, canonicals) for any page.
+- **[Free]** [Detailed SEO Extension](https://detailed.com/extension/) - Clean, high-performance extension for on-page SEO audits.
+- **[Paid]** [Keywords Everywhere](https://keywordseverywhere.com) - In-browser search volume and CPC data for multiple platforms.
+- **[Freemium]** [MozBar](https://moz.com/products/pro/seo-toolbar) - In-browser DA/PA metrics and page analysis.
+- **[Free]** [Redirect Path](https://www.ayima.com/redirect-path) - Flags redirects and header errors as you browse.
+- **[Free]** [SEOquake](https://www.seoquake.com) - Checks multiple SEO parameters for any webpage instantly.
+
+---
+
+## WordPress and CMS SEO Plugins
+
+Essential plugins for optimizing content and technical basics on WordPress and other CMS platforms.
+
+- **[Freemium]** [Rank Math](https://rankmath.com) - High-performance SEO plugin with AI features and deep GSC integration.
+- **[Freemium]** [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - The most popular SEO plugin for content optimization and technical basics.
+- **[Freemium]** [SEOPress](https://www.seopress.org) - Lightweight, affordable SEO plugin without the bloat.
+- **[Freemium]** [All in One SEO (AIOSEO)](https://aioseo.com) - Comprehensive plugin with local SEO and audit features.
 
 ---
 

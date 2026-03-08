@@ -1,6 +1,6 @@
 # Awesome Digital PR Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of tools for Digital PR, Media Relations, and Earned Media, framed by the **[DPRI Method™](https://uttik.com/academy/digital-pr/dpri-method/)** (Digital PR Integration Framework). This list bridges the gap between traditional PR and modern digital marketing outcomes.
+> A curated list of tools for Digital PR, Media Relations, and Earned Media, framed by the **[DPRI Method](https://uttik.com/academy/digital-pr/dpri-method/)** (Digital PR Integration Framework). This list bridges the gap between traditional PR and modern digital marketing outcomes.
 
 ## The DPRI Method
 The **[Digital PR Integration (DPRI) Method](https://uttik.com/academy/digital-pr/dpri-method/)** is a systematic framework used to map PR activities to measurable digital outcomes. It is built on four core pillars:
